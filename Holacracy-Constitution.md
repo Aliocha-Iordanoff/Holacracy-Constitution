@@ -268,7 +268,7 @@ Once a Role holds Sub-Roles, changing a Role's Governance requires using the ***
 
 Each Role has a group of ***"Role Members"*** who may represent its Sub-Roles in its Governance Process.
 
-A Role's Role Members are those Partners filling its Role Lead Role, as well as each Partner serving as Role Lead for a Sub-Role in the Role. If a Sub-Role has multiple Role Leads, a Role may adopt a Policy to limit how many of them represent that Sub-Role as Role Members in its Governance Process.
+A Role's Role Members are those Partners filling it as a Role Lead in the broader Role, as well as each Partner serving as Role Lead for a Sub-Role in the Role. If a Sub-Role has multiple Role Leads, a Role may adopt a Policy to limit how many of them represent that Sub-Role as Role Members in its Governance Process.
 
 #### 5.1.1 Role Reps
 
